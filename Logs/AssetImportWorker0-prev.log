@@ -1,0 +1,1609 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.0f1 (3721df5a8b28) revision 3613151'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 6082 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/colorBump
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51276
+Successfully changed project path to: D:/colorBump
+D:/colorBump
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 49.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.0f1 (3721df5a8b28)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/colorBump/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 560X Series (ID=0x67ef)
+    Vendor:   
+    VRAM:     4077 MB
+    Driver:   27.20.14501.24001
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56936
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003759 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 37.97 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.177 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005796 seconds.
+Begin MonoManager ReloadAssembly
+Error: Could not load signature of Unity.Android.Logcat.AndroidLogcat:.ctor due to: Could not load file or assembly 'UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+Unloading broken assembly Library/ScriptAssemblies/Unity.Mobile.AndroidLogcat.Editor.dll, this assembly can cause crashes in the runtime
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.327 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1319 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.7 MB.
+System memory in use after: 62.8 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 1755.
+Total: 2.546900 ms (FindLiveObjects: 0.299800 ms CreateObjectMapping: 0.067800 ms MarkObjects: 2.103600 ms  DeleteObjects: 0.073500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/1.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/1.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1ed73a9f2e673ff41ef98aa27c59f5b') in 0.020112 seconds
+  Import took 0.111246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.035232 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adf38f58432499ca1a8e50680e2bacfa') in 0.252206 seconds
+  Import took 0.287903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 570.878914 seconds.
+  path: Assets/Scripts/Canvas.prefab
+  artifactKey: Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Canvas.prefab using Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d23075d029b321e259bb93e99a26341') in 0.574683 seconds
+  Import took 0.625039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.326917 seconds.
+  path: Assets/Scripts/Canvas.prefab
+  artifactKey: Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Canvas.prefab using Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '406caf08a6d2b66c506d57669320ba88') in 0.103628 seconds
+  Import took 0.141725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.890077 seconds.
+  path: Assets/Scripts/Ball.cs
+  artifactKey: Guid(2dc998af160b2304badd0022f015f973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Ball.cs using Guid(2dc998af160b2304badd0022f015f973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '383f398fda4f2098ce8246c61b1cfb52') in 0.038350 seconds
+  Import took 0.066968 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004480 seconds.
+Begin MonoManager ReloadAssembly
+Error: Could not load signature of Unity.Android.Logcat.AndroidLogcat:.ctor due to: Could not load file or assembly 'UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+Unloading broken assembly Library/ScriptAssemblies/Unity.Mobile.AndroidLogcat.Editor.dll, this assembly can cause crashes in the runtime
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.051 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.12 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1315 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.9 MB.
+System memory in use after: 63.0 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 1759.
+Total: 2.388100 ms (FindLiveObjects: 0.263100 ms CreateObjectMapping: 0.049000 ms MarkObjects: 2.025700 ms  DeleteObjects: 0.049000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 267.772636 seconds.
+  path: Assets/Scripts/Ball.cs
+  artifactKey: Guid(2dc998af160b2304badd0022f015f973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Ball.cs using Guid(2dc998af160b2304badd0022f015f973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04bcd834015b363071b6e2380827e01e') in 0.005923 seconds
+  Import took 0.048878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 129.692134 seconds.
+  path: Assets/Scenes/2.unity
+  artifactKey: Guid(5ba8c3f9af6783e49b624f151a3a51c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/2.unity using Guid(5ba8c3f9af6783e49b624f151a3a51c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '775a5f1d1d2efe9296f23f1e768a754f') in 0.055411 seconds
+  Import took 0.082446 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004367 seconds.
+Begin MonoManager ReloadAssembly
+Error: Could not load signature of Unity.Android.Logcat.AndroidLogcat:.ctor due to: Could not load file or assembly 'UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+Unloading broken assembly Library/ScriptAssemblies/Unity.Mobile.AndroidLogcat.Editor.dll, this assembly can cause crashes in the runtime
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.114 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1316 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.1 MB.
+System memory in use after: 63.2 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1761.
+Total: 2.734300 ms (FindLiveObjects: 0.216100 ms CreateObjectMapping: 0.048300 ms MarkObjects: 2.437800 ms  DeleteObjects: 0.030000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.343664 seconds.
+  path: Assets/Scenes/3.unity
+  artifactKey: Guid(195d4ab9c0a016d438d6d6f83a946053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/3.unity using Guid(195d4ab9c0a016d438d6d6f83a946053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '054964d4e5a74bce9294c4d4c031909d') in 0.063208 seconds
+  Import took 0.074843 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003297 seconds.
+Begin MonoManager ReloadAssembly
+Error: Could not load signature of Unity.Android.Logcat.AndroidLogcat:.ctor due to: Could not load file or assembly 'UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+Unloading broken assembly Library/ScriptAssemblies/Unity.Mobile.AndroidLogcat.Editor.dll, this assembly can cause crashes in the runtime
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.053 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1316 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.2 MB.
+System memory in use after: 63.3 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1763.
+Total: 2.442600 ms (FindLiveObjects: 0.202900 ms CreateObjectMapping: 0.047000 ms MarkObjects: 2.164400 ms  DeleteObjects: 0.026700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003262 seconds.
+Begin MonoManager ReloadAssembly
+Error: Could not load signature of Unity.Android.Logcat.AndroidLogcat:.ctor due to: Could not load file or assembly 'UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+Unloading broken assembly Library/ScriptAssemblies/Unity.Mobile.AndroidLogcat.Editor.dll, this assembly can cause crashes in the runtime
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.741 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1316 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.4 MB.
+System memory in use after: 63.5 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1765.
+Total: 2.539300 ms (FindLiveObjects: 0.355800 ms CreateObjectMapping: 0.045100 ms MarkObjects: 2.101100 ms  DeleteObjects: 0.035400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 68.586533 seconds.
+  path: Assets/Scenes/4.unity
+  artifactKey: Guid(885d5c6d1fc1ed44982e9a3d7fc99414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/4.unity using Guid(885d5c6d1fc1ed44982e9a3d7fc99414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcc7d7c1cf2ee4e3433fe009881ecadf') in 0.060041 seconds
+  Import took 0.116572 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003491 seconds.
+Begin MonoManager ReloadAssembly
+Error: Could not load signature of Unity.Android.Logcat.AndroidLogcat:.ctor due to: Could not load file or assembly 'UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+Unloading broken assembly Library/ScriptAssemblies/Unity.Mobile.AndroidLogcat.Editor.dll, this assembly can cause crashes in the runtime
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.116 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.95 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1316 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.5 MB.
+System memory in use after: 63.6 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1767.
+Total: 2.295800 ms (FindLiveObjects: 0.237000 ms CreateObjectMapping: 0.039900 ms MarkObjects: 1.991500 ms  DeleteObjects: 0.025700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003460 seconds.
+Begin MonoManager ReloadAssembly
+Error: Could not load signature of Unity.Android.Logcat.AndroidLogcat:.ctor due to: Could not load file or assembly 'UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+Unloading broken assembly Library/ScriptAssemblies/Unity.Mobile.AndroidLogcat.Editor.dll, this assembly can cause crashes in the runtime
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.658 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1316 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.6 MB.
+System memory in use after: 63.7 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1769.
+Total: 3.311700 ms (FindLiveObjects: 0.700800 ms CreateObjectMapping: 0.231600 ms MarkObjects: 2.345700 ms  DeleteObjects: 0.032000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 179.309322 seconds.
+  path: Assets/Scenes/5.unity
+  artifactKey: Guid(ff617f9ffe6130742bd0667c4e59ff67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/5.unity using Guid(ff617f9ffe6130742bd0667c4e59ff67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2959aa31b8a04de0d9363ea79635819b') in 0.057584 seconds
+  Import took 0.082612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.885967 seconds.
+  path: Assets/Scenes/6.unity
+  artifactKey: Guid(7fdf5d67b9653a346803c8b8e31698e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/6.unity using Guid(7fdf5d67b9653a346803c8b8e31698e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7634bd9b14f3aa6ecef55bf09d9f4ca') in 0.023303 seconds
+  Import took 0.026337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.587018 seconds.
+  path: Assets/Scenes/7.unity
+  artifactKey: Guid(80bb6b8cbd4588d428c9ad9e3531a6f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/7.unity using Guid(80bb6b8cbd4588d428c9ad9e3531a6f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8fec528bed18486138707b5e01e704c') in 0.011471 seconds
+  Import took 0.058731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.340727 seconds.
+  path: Assets/Scenes/4.unity
+  artifactKey: Guid(885d5c6d1fc1ed44982e9a3d7fc99414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/4.unity using Guid(885d5c6d1fc1ed44982e9a3d7fc99414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03e1b5d24c4fbdc7575ecda33e52e75d') in 0.010566 seconds
+  Import took 0.013759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.803623 seconds.
+  path: Assets/Scenes/8.unity
+  artifactKey: Guid(b2f8787305f956948863e8fa625be84a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/8.unity using Guid(b2f8787305f956948863e8fa625be84a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08c8a3ee376059e1358b733c074dc113') in 0.010262 seconds
+  Import took 0.065392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.382846 seconds.
+  path: Assets/Scenes/7.unity
+  artifactKey: Guid(80bb6b8cbd4588d428c9ad9e3531a6f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/7.unity using Guid(80bb6b8cbd4588d428c9ad9e3531a6f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30dd10b651f8d7284abf5febc72f3266') in 0.065486 seconds
+  Import took 0.077941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.433528 seconds.
+  path: Assets/Scenes/10.unity
+  artifactKey: Guid(0c59ce87cc451a1429ce6c3f02d623f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/10.unity using Guid(0c59ce87cc451a1429ce6c3f02d623f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02581692cbfb37da9833d80f1c39d00d') in 0.054755 seconds
+  Import took 0.082498 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003295 seconds.
+Begin MonoManager ReloadAssembly
+Error: Could not load signature of Unity.Android.Logcat.AndroidLogcat:.ctor due to: Could not load file or assembly 'UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+Unloading broken assembly Library/ScriptAssemblies/Unity.Mobile.AndroidLogcat.Editor.dll, this assembly can cause crashes in the runtime
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.091 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1316 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.8 MB.
+System memory in use after: 63.9 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1771.
+Total: 2.577800 ms (FindLiveObjects: 0.212400 ms CreateObjectMapping: 0.045000 ms MarkObjects: 2.284500 ms  DeleteObjects: 0.034100 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 38.4 MB.
+System memory in use after: 38.6 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1771.
+Total: 5.132100 ms (FindLiveObjects: 0.451100 ms CreateObjectMapping: 0.164800 ms MarkObjects: 4.471600 ms  DeleteObjects: 0.042200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003237 seconds.
+Begin MonoManager ReloadAssembly
+Error: Could not load signature of Unity.Android.Logcat.AndroidLogcat:.ctor due to: Could not load file or assembly 'UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+Unloading broken assembly Library/ScriptAssemblies/Unity.Mobile.AndroidLogcat.Editor.dll, this assembly can cause crashes in the runtime
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.376 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1315 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.1 MB.
+System memory in use after: 64.2 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1773.
+Total: 4.400000 ms (FindLiveObjects: 0.317100 ms CreateObjectMapping: 0.068800 ms MarkObjects: 3.962900 ms  DeleteObjects: 0.048600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004687 seconds.
+Begin MonoManager ReloadAssembly
+Error: Could not load signature of Unity.Android.Logcat.AndroidLogcat:.ctor due to: Could not load file or assembly 'UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+Unloading broken assembly Library/ScriptAssemblies/Unity.Mobile.AndroidLogcat.Editor.dll, this assembly can cause crashes in the runtime
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.155 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1316 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.2 MB.
+System memory in use after: 64.3 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1775.
+Total: 2.774600 ms (FindLiveObjects: 0.237400 ms CreateObjectMapping: 0.045600 ms MarkObjects: 2.453000 ms  DeleteObjects: 0.036800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003471 seconds.
+Begin MonoManager ReloadAssembly
+Error: Could not load signature of Unity.Android.Logcat.AndroidLogcat:.ctor due to: Could not load file or assembly 'UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+Unloading broken assembly Library/ScriptAssemblies/Unity.Mobile.AndroidLogcat.Editor.dll, this assembly can cause crashes in the runtime
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.173 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1316 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.3 MB.
+System memory in use after: 64.4 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1777.
+Total: 2.243800 ms (FindLiveObjects: 0.265500 ms CreateObjectMapping: 0.045200 ms MarkObjects: 1.905300 ms  DeleteObjects: 0.026500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2222.116343 seconds.
+  path: Assets/Scenes/1.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/1.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd2d3ff466c76d37664006d3a6fa6bac') in 0.019709 seconds
+  Import took 0.067392 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003441 seconds.
+Begin MonoManager ReloadAssembly
+Error: Could not load signature of Unity.Android.Logcat.AndroidLogcat:.ctor due to: Could not load file or assembly 'UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+Unloading broken assembly Library/ScriptAssemblies/Unity.Mobile.AndroidLogcat.Editor.dll, this assembly can cause crashes in the runtime
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.120 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1316 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.5 MB.
+System memory in use after: 64.6 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1779.
+Total: 2.531500 ms (FindLiveObjects: 0.227200 ms CreateObjectMapping: 0.046900 ms MarkObjects: 2.227300 ms  DeleteObjects: 0.028500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004633 seconds.
+Begin MonoManager ReloadAssembly
+Error: Could not load signature of Unity.Android.Logcat.AndroidLogcat:.ctor due to: Could not load file or assembly 'UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+Unloading broken assembly Library/ScriptAssemblies/Unity.Mobile.AndroidLogcat.Editor.dll, this assembly can cause crashes in the runtime
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.134 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1316 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.6 MB.
+System memory in use after: 64.7 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1781.
+Total: 3.740400 ms (FindLiveObjects: 0.515300 ms CreateObjectMapping: 0.616400 ms MarkObjects: 2.573500 ms  DeleteObjects: 0.032800 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 7.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 39.3 MB.
+System memory in use after: 39.4 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1781.
+Total: 2.474600 ms (FindLiveObjects: 0.325100 ms CreateObjectMapping: 0.069500 ms MarkObjects: 2.055500 ms  DeleteObjects: 0.022500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 408.226537 seconds.
+  path: Assets/Scripts/Canvas.prefab
+  artifactKey: Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Canvas.prefab using Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f54af2bfe074fb35c8c33a6b332507f') in 0.642712 seconds
+  Import took 0.673427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.052183 seconds.
+  path: Assets/Scripts/Canvas.prefab
+  artifactKey: Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Canvas.prefab using Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '319370c0b2824084f67aea649872060a') in 0.125530 seconds
+  Import took 0.162021 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003590 seconds.
+Begin MonoManager ReloadAssembly
+Error: Could not load signature of Unity.Android.Logcat.AndroidLogcat:.ctor due to: Could not load file or assembly 'UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+Unloading broken assembly Library/ScriptAssemblies/Unity.Mobile.AndroidLogcat.Editor.dll, this assembly can cause crashes in the runtime
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.372 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1315 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.8 MB.
+System memory in use after: 64.9 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 1783.
+Total: 3.369600 ms (FindLiveObjects: 0.294700 ms CreateObjectMapping: 0.105400 ms MarkObjects: 2.911700 ms  DeleteObjects: 0.055400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005002 seconds.
+Begin MonoManager ReloadAssembly
+Error: Could not load signature of Unity.Android.Logcat.AndroidLogcat:.ctor due to: Could not load file or assembly 'UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+Unloading broken assembly Library/ScriptAssemblies/Unity.Mobile.AndroidLogcat.Editor.dll, this assembly can cause crashes in the runtime
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.02 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.411 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1316 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.0 MB.
+System memory in use after: 64.1 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1785.
+Total: 9.029700 ms (FindLiveObjects: 3.439300 ms CreateObjectMapping: 0.386400 ms MarkObjects: 5.139900 ms  DeleteObjects: 0.059300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 327.266009 seconds.
+  path: Assets/Materials/trial.mat
+  artifactKey: Guid(f49fa73a6b7d198449b41b00c7e0271f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/trial.mat using Guid(f49fa73a6b7d198449b41b00c7e0271f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c08f5d59da848626a1cd5908aa9dcea2') in 0.203039 seconds
+  Import took 0.226675 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003269 seconds.
+Begin MonoManager ReloadAssembly
+Error: Could not load signature of Unity.Android.Logcat.AndroidLogcat:.ctor due to: Could not load file or assembly 'UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+Unloading broken assembly Library/ScriptAssemblies/Unity.Mobile.AndroidLogcat.Editor.dll, this assembly can cause crashes in the runtime
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.242 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1316 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.5 MB.
+System memory in use after: 67.6 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1827.
+Total: 2.593800 ms (FindLiveObjects: 0.220000 ms CreateObjectMapping: 0.043800 ms MarkObjects: 2.299300 ms  DeleteObjects: 0.029200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 107.357683 seconds.
+  path: Assets/Materials/trial.mat
+  artifactKey: Guid(f49fa73a6b7d198449b41b00c7e0271f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/trial.mat using Guid(f49fa73a6b7d198449b41b00c7e0271f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '316817e2b083b90d4f5bedf828eaf30f') in 0.255609 seconds
+  Import took 0.258725 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007350 seconds.
+Begin MonoManager ReloadAssembly
+Error: Could not load signature of Unity.Android.Logcat.AndroidLogcat:.ctor due to: Could not load file or assembly 'UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+Unloading broken assembly Library/ScriptAssemblies/Unity.Mobile.AndroidLogcat.Editor.dll, this assembly can cause crashes in the runtime
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.385 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.89 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1316 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.7 MB.
+System memory in use after: 67.8 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1831.
+Total: 2.380700 ms (FindLiveObjects: 0.215200 ms CreateObjectMapping: 0.038600 ms MarkObjects: 2.097300 ms  DeleteObjects: 0.028000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 195.292005 seconds.
+  path: Assets/Scenes/2.unity
+  artifactKey: Guid(5ba8c3f9af6783e49b624f151a3a51c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/2.unity using Guid(5ba8c3f9af6783e49b624f151a3a51c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c16f07e8f6cdc44ad50e3e4e13737d73') in 0.021658 seconds
+  Import took 0.024708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.097821 seconds.
+  path: Assets/Scenes/3.unity
+  artifactKey: Guid(195d4ab9c0a016d438d6d6f83a946053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/3.unity using Guid(195d4ab9c0a016d438d6d6f83a946053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '552b9599ebf8b028d4e5a91e355d11d3') in 0.004554 seconds
+  Import took 0.064423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.331397 seconds.
+  path: Assets/Scenes/4.unity
+  artifactKey: Guid(885d5c6d1fc1ed44982e9a3d7fc99414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/4.unity using Guid(885d5c6d1fc1ed44982e9a3d7fc99414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe5c75285629dfca63526d09d2a86578') in 0.004566 seconds
+  Import took 0.045297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.026618 seconds.
+  path: Assets/Scenes/6.unity
+  artifactKey: Guid(7fdf5d67b9653a346803c8b8e31698e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/6.unity using Guid(7fdf5d67b9653a346803c8b8e31698e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ba57796b38c287455b5a785e5c044cd') in 0.012915 seconds
+  Import took 0.049026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.125532 seconds.
+  path: Assets/Scenes/5.unity
+  artifactKey: Guid(ff617f9ffe6130742bd0667c4e59ff67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/5.unity using Guid(ff617f9ffe6130742bd0667c4e59ff67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af2a06270ef95a5e0ffa0c6cc7a3e736') in 0.010071 seconds
+  Import took 0.051201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.205779 seconds.
+  path: Assets/Scenes/8.unity
+  artifactKey: Guid(b2f8787305f956948863e8fa625be84a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/8.unity using Guid(b2f8787305f956948863e8fa625be84a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f4e8b06dd31364e06cd613e6acf7a09') in 0.010592 seconds
+  Import took 0.059729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.376333 seconds.
+  path: Assets/Scenes/9.unity
+  artifactKey: Guid(62444b56763c9f742b4534c1e81387f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/9.unity using Guid(62444b56763c9f742b4534c1e81387f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fcbd9c19a1a673b5787f6bfcac2ec1e') in 0.010309 seconds
+  Import took 0.015117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.209815 seconds.
+  path: Assets/Scenes/10.unity
+  artifactKey: Guid(0c59ce87cc451a1429ce6c3f02d623f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/10.unity using Guid(0c59ce87cc451a1429ce6c3f02d623f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '965f8ca8785ca8c1bde831bdf2a26a91') in 0.004424 seconds
+  Import took 0.037024 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 7.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.4 MB.
+System memory in use after: 42.5 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1831.
+Total: 3.204300 ms (FindLiveObjects: 0.319100 ms CreateObjectMapping: 0.053400 ms MarkObjects: 2.801800 ms  DeleteObjects: 0.027900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003254 seconds.
+Begin MonoManager ReloadAssembly
+Error: Could not load signature of Unity.Android.Logcat.AndroidLogcat:.ctor due to: Could not load file or assembly 'UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+Unloading broken assembly Library/ScriptAssemblies/Unity.Mobile.AndroidLogcat.Editor.dll, this assembly can cause crashes in the runtime
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.151 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1315 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.0 MB.
+System memory in use after: 68.1 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1833.
+Total: 2.935000 ms (FindLiveObjects: 0.292500 ms CreateObjectMapping: 0.068700 ms MarkObjects: 2.544800 ms  DeleteObjects: 0.027200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 319.995224 seconds.
+  path: Assets/Scenes/2.unity
+  artifactKey: Guid(5ba8c3f9af6783e49b624f151a3a51c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/2.unity using Guid(5ba8c3f9af6783e49b624f151a3a51c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4108aa0cd827f54a59ddeabc8fcb9d5') in 0.018797 seconds
+  Import took 1.707641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.961735 seconds.
+  path: Assets/Scenes/3.unity
+  artifactKey: Guid(195d4ab9c0a016d438d6d6f83a946053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/3.unity using Guid(195d4ab9c0a016d438d6d6f83a946053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95344b0870cf56ee6e7e26d407635e66') in 0.003503 seconds
+  Import took 0.048272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.829272 seconds.
+  path: Assets/Scenes/1.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/1.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a86bf17dc2993cb7bac19a5711c587d7') in 0.011794 seconds
+  Import took 0.070927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.323753 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19dd062403c41fcda158625463d80623') in 0.394168 seconds
+  Import took 0.399944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.859613 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32dbe8c1511f8708cae6d446d12dd04e') in 0.092784 seconds
+  Import took 0.099342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.583304 seconds.
+  path: Assets/Scenes/4.unity
+  artifactKey: Guid(885d5c6d1fc1ed44982e9a3d7fc99414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/4.unity using Guid(885d5c6d1fc1ed44982e9a3d7fc99414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9c7f05f85875e0c3e31f088000e03b2') in 0.011382 seconds
+  Import took 0.058515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.772106 seconds.
+  path: Assets/Scenes/5.unity
+  artifactKey: Guid(ff617f9ffe6130742bd0667c4e59ff67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/5.unity using Guid(ff617f9ffe6130742bd0667c4e59ff67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6932e75dbd18a1ff4bcab12998729169') in 0.004664 seconds
+  Import took 0.052569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.561038 seconds.
+  path: Assets/Scenes/6.unity
+  artifactKey: Guid(7fdf5d67b9653a346803c8b8e31698e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/6.unity using Guid(7fdf5d67b9653a346803c8b8e31698e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bfa793f64c83c6aae2209cafae83f60') in 0.014580 seconds
+  Import took 0.057078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.810404 seconds.
+  path: Assets/Scenes/7.unity
+  artifactKey: Guid(80bb6b8cbd4588d428c9ad9e3531a6f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/7.unity using Guid(80bb6b8cbd4588d428c9ad9e3531a6f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21d5b5fdb1a2fdf50a88108404fd6fce') in 0.006179 seconds
+  Import took 0.048910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.876370 seconds.
+  path: Assets/Scenes/8.unity
+  artifactKey: Guid(b2f8787305f956948863e8fa625be84a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/8.unity using Guid(b2f8787305f956948863e8fa625be84a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e6b8f061a16eb9d8614d96d3c470bef') in 0.005486 seconds
+  Import took 0.056026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.334924 seconds.
+  path: Assets/Scenes/9.unity
+  artifactKey: Guid(62444b56763c9f742b4534c1e81387f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/9.unity using Guid(62444b56763c9f742b4534c1e81387f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eb285929c0790c6c14d34cd1f748a57') in 0.010958 seconds
+  Import took 0.015647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.799302 seconds.
+  path: Assets/Scenes/10.unity
+  artifactKey: Guid(0c59ce87cc451a1429ce6c3f02d623f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/10.unity using Guid(0c59ce87cc451a1429ce6c3f02d623f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6dc1e99e6e82d51026776cee7a589de') in 0.004890 seconds
+  Import took 0.008557 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 7.01 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 43.2 MB.
+System memory in use after: 43.3 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1833.
+Total: 3.424700 ms (FindLiveObjects: 0.354200 ms CreateObjectMapping: 0.068900 ms MarkObjects: 2.953500 ms  DeleteObjects: 0.037200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003644 seconds.
+Begin MonoManager ReloadAssembly
+Error: Could not load signature of Unity.Android.Logcat.AndroidLogcat:.ctor due to: Could not load file or assembly 'UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:UnityEditor.Android.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+Unloading broken assembly Library/ScriptAssemblies/Unity.Mobile.AndroidLogcat.Editor.dll, this assembly can cause crashes in the runtime
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.190 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1315 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.3 MB.
+System memory in use after: 68.4 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1835.
+Total: 3.103100 ms (FindLiveObjects: 0.383400 ms CreateObjectMapping: 0.143300 ms MarkObjects: 2.539400 ms  DeleteObjects: 0.034900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 311.903359 seconds.
+  path: Assets/Scenes/1.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/1.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d1852b9fee821c297e4782f3c8317fc') in 0.025352 seconds
+  Import took 1.806394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.564485 seconds.
+  path: Assets/Scenes/2.unity
+  artifactKey: Guid(5ba8c3f9af6783e49b624f151a3a51c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/2.unity using Guid(5ba8c3f9af6783e49b624f151a3a51c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eeae88743b11a7f82e4e27aa627924a7') in 0.003699 seconds
+  Import took 0.044668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 113.562609 seconds.
+  path: Assets/Scenes/3.unity
+  artifactKey: Guid(195d4ab9c0a016d438d6d6f83a946053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/3.unity using Guid(195d4ab9c0a016d438d6d6f83a946053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a04039cf1decfbac589d8eb2729e143d') in 0.007340 seconds
+  Import took 0.569063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.866742 seconds.
+  path: Assets/Scenes/2.unity
+  artifactKey: Guid(5ba8c3f9af6783e49b624f151a3a51c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/2.unity using Guid(5ba8c3f9af6783e49b624f151a3a51c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fb4355da95c0fa105ba479f6547076a') in 0.004890 seconds
+  Import took 0.057223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 172.363573 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16d1333716c43138a9fba1765a3e599f') in 0.285073 seconds
+  Import took 0.300242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.361524 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37115d06c97089c09f7093507a4d6930') in 0.092737 seconds
+  Import took 0.141094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.596422 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '142b71188251302a580e3073e8975bbc') in 0.088644 seconds
+  Import took 0.127697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.598408 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faff1df8def8075a7c70af29fb7ee2fe') in 0.089090 seconds
+  Import took 0.095201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.752358 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be787c8a1f0f3d3f0714309c8ec98cb2') in 0.091802 seconds
+  Import took 0.129671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.306975 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e038e66f950619fdc36c15fc9f9fa59c') in 0.089986 seconds
+  Import took 0.126600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.343057 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28ea6591bdb092fd5da00e4681d6e15a') in 0.095200 seconds
+  Import took 0.100099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.556323 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00d9a34caceebf4e42adb37f90e87439') in 0.103038 seconds
+  Import took 0.124691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.531995 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff0261bd8beaeb244c474e3a2bb7e5cf') in 0.087590 seconds
+  Import took 0.121383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.971149 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f158412e9b31fa4ffc8dad5b73d7bdf') in 0.091280 seconds
+  Import took 0.114223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.499752 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56ab6aeaccb94b800c563a0a1dd9f634') in 0.096414 seconds
+  Import took 0.126757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.776814 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b2af3f22f720ba53a719c98bfd2f274') in 0.090027 seconds
+  Import took 0.120594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.958075 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a28ea8c08aaecdf0d19d3c84b58bd82') in 0.091562 seconds
+  Import took 0.096461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.131332 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b0c5844cf84ef50c8fa6f3df6a59110') in 0.093856 seconds
+  Import took 0.097044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.520691 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e948688a969f46dc51493eb542715a7') in 0.091696 seconds
+  Import took 0.097460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.499773 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddee80edaab07952fd9bedc5b2371914') in 0.105048 seconds
+  Import took 0.109612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.347433 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4045fbe5247cb05f419eec76c40414b') in 0.115662 seconds
+  Import took 0.120737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.981937 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9592df60756a1f0f80a27e3b6f1aa468') in 0.108808 seconds
+  Import took 0.113567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.106312 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e54edefdf0f5e8c0f2b6e2ec33eeb2e') in 0.092706 seconds
+  Import took 0.122360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.765291 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4173de679751d13cd477c43a32061e55') in 0.099834 seconds
+  Import took 0.142292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.569996 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '156b0b2e58e7020d5091a108382b2ccf') in 0.096432 seconds
+  Import took 0.126696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.298475 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be61dd48e3e6380d781da2002aa001c8') in 0.090510 seconds
+  Import took 0.094662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.718554 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e63c8dd53a5f28c6e7c7298e86baef4d') in 0.099103 seconds
+  Import took 0.113374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.690380 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f40c41e5b5cdf10b9fd5cc319e7ed5f4') in 0.091995 seconds
+  Import took 0.133813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.340771 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61148c103dfb441d12835f251f55923b') in 0.094097 seconds
+  Import took 0.113791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.753886 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62a3ee18172aa43a21984e119291ab62') in 0.091422 seconds
+  Import took 0.152317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.436076 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f2617c8cdc986ef98f1b369f545f550') in 0.100805 seconds
+  Import took 0.104670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.005217 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5b39c25c5a33579c657bd964fe80643') in 0.093216 seconds
+  Import took 0.157985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.210340 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a4354c80f42e58c5e166e50b97929c9') in 0.094960 seconds
+  Import took 0.141261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.196321 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caeb62f54cd15165b3c84a25511fba7d') in 0.095173 seconds
+  Import took 0.142451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.280719 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a02d94e7a7bbe5099bc0d3a87e55deb9') in 0.093031 seconds
+  Import took 0.172924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.271134 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3eaabcedd5cdfdcefa974900fc302db') in 0.091555 seconds
+  Import took 0.167627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.424288 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13cf6b67fc29f0a1771137356a3d9cfe') in 0.094568 seconds
+  Import took 0.098245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.592426 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef7b116f4c4643b8607344b278cc9580') in 0.092818 seconds
+  Import took 0.096680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.553432 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c89185f737ae262a68b7bc4f596463f') in 0.092695 seconds
+  Import took 0.096290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.722105 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2662018a0465941ab513607fec9a32b9') in 0.096124 seconds
+  Import took 0.171711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.379205 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54970b76c09f9d61056ff8bbfb3be9a9') in 0.095788 seconds
+  Import took 0.105670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.103146 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd60d1bb373c36b68ff926b8f32aa2aa8') in 0.094070 seconds
+  Import took 0.124744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.736005 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4af9e5d2cd0f544450236ad284a55871') in 0.093488 seconds
+  Import took 0.097033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.185300 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f5a904a73dbd565714b193868c6ad6f') in 0.089119 seconds
+  Import took 0.112518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.337253 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '212715443b3b60de64ad1af652f6d0a9') in 0.090861 seconds
+  Import took 0.128670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.426842 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07fafe81e8a566d32f27bb6b516552ba') in 0.091185 seconds
+  Import took 0.095126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.077183 seconds.
+  path: Assets/Scenes/Pause Menu.prefab
+  artifactKey: Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Pause Menu.prefab using Guid(d0b76fa5113fd4c4091a4743cda50e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '354a80211d5d466e55c67e9439672cbf') in 0.090403 seconds
+  Import took 0.093593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.009758 seconds.
+  path: Assets/Scenes/2.unity
+  artifactKey: Guid(5ba8c3f9af6783e49b624f151a3a51c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/2.unity using Guid(5ba8c3f9af6783e49b624f151a3a51c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbe71556a17d9aaa85d30702ee474045') in 0.007660 seconds
+  Import took 0.041622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.181518 seconds.
+  path: Assets/Scripts/Canvas.prefab
+  artifactKey: Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Canvas.prefab using Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fed133f8e52fd9651ebea13c1feda35') in 0.282852 seconds
+  Import took 0.291117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.991117 seconds.
+  path: Assets/Scripts/Canvas.prefab
+  artifactKey: Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Canvas.prefab using Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b86931fb0c2f9a55aff45b88d09d279e') in 0.161697 seconds
+  Import took 0.169854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.492816 seconds.
+  path: Assets/Scripts/Canvas.prefab
+  artifactKey: Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Canvas.prefab using Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd290e487970fbf0884b7c439fe20ff60') in 0.176927 seconds
+  Import took 0.184381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.220081 seconds.
+  path: Assets/Scripts/Canvas.prefab
+  artifactKey: Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Canvas.prefab using Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62fc29cf4dc5f808336b7e179bccc4a6') in 0.184103 seconds
+  Import took 0.189876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.263384 seconds.
+  path: Assets/Scripts/Canvas.prefab
+  artifactKey: Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Canvas.prefab using Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '885c695547dd9a9d505986c3dbf894a1') in 0.233929 seconds
+  Import took 0.241022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.494180 seconds.
+  path: Assets/Scripts/Canvas.prefab
+  artifactKey: Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Canvas.prefab using Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bae6ff42b228865b36d9434df6c36f9') in 0.168371 seconds
+  Import took 0.175444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.065204 seconds.
+  path: Assets/Scripts/Canvas.prefab
+  artifactKey: Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Canvas.prefab using Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6afb454d19a10e9ce59f8d24bfe5f957') in 0.157225 seconds
+  Import took 0.166932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.190173 seconds.
+  path: Assets/Scripts/Canvas.prefab
+  artifactKey: Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Canvas.prefab using Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc27b27b3d039cff872826aba4922ecf') in 0.232405 seconds
+  Import took 0.239081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.996858 seconds.
+  path: Assets/Scripts/Canvas.prefab
+  artifactKey: Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Canvas.prefab using Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8da294c06a11fd8e2e484fc11bcd6f3') in 0.171387 seconds
+  Import took 0.216098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.278779 seconds.
+  path: Assets/Scripts/Canvas.prefab
+  artifactKey: Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Canvas.prefab using Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a215583e982c9299254578d5f0931e9d') in 0.247173 seconds
+  Import took 0.303660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.713857 seconds.
+  path: Assets/Scripts/Canvas.prefab
+  artifactKey: Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Canvas.prefab using Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '314d5f2855f31c9b01e036a42f16fe86') in 0.190032 seconds
+  Import took 0.244566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.967744 seconds.
+  path: Assets/Scripts/Canvas.prefab
+  artifactKey: Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Canvas.prefab using Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f0b41628e17c396e51b150d774873e0') in 0.179551 seconds
+  Import took 0.224935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.087357 seconds.
+  path: Assets/Scripts/Canvas.prefab
+  artifactKey: Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Canvas.prefab using Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d459f4f3e4fb22958ddb44e2f509599') in 0.221073 seconds
+  Import took 0.258162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.772411 seconds.
+  path: Assets/Scripts/Canvas.prefab
+  artifactKey: Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Canvas.prefab using Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a21401a8bbb98b7e31c308746eb96484') in 0.210370 seconds
+  Import took 0.216033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.563405 seconds.
+  path: Assets/Scripts/Canvas.prefab
+  artifactKey: Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Canvas.prefab using Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62b97159bc6f06fffe27350495329309') in 0.195445 seconds
+  Import took 0.201541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.578912 seconds.
+  path: Assets/Scripts/Canvas.prefab
+  artifactKey: Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Canvas.prefab using Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5c30beb5e5d041fcd8de48b79eaa25c') in 0.205128 seconds
+  Import took 0.212161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.847021 seconds.
+  path: Assets/Scripts/Canvas.prefab
+  artifactKey: Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Canvas.prefab using Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e78278a04b1172c8d9ec6d2a330298d1') in 0.233516 seconds
+  Import took 0.279782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.950020 seconds.
+  path: Assets/Scripts/Canvas.prefab
+  artifactKey: Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Canvas.prefab using Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50e9d50747c74ec214065485149083b4') in 0.165815 seconds
+  Import took 0.171649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.912408 seconds.
+  path: Assets/Scripts/Canvas.prefab
+  artifactKey: Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Canvas.prefab using Guid(4411d1f110659a84eb47589fa4bea419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6081784bf4b3075c98cc43a29cea6066') in 0.149231 seconds
+  Import took 0.191543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.256850 seconds.
+  path: Assets/Scenes/2.unity
+  artifactKey: Guid(5ba8c3f9af6783e49b624f151a3a51c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/2.unity using Guid(5ba8c3f9af6783e49b624f151a3a51c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '067d9f647795ec256f99d0780ad9f3f3') in 0.009086 seconds
+  Import took 0.050278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.258527 seconds.
+  path: Assets/Scenes/3.unity
+  artifactKey: Guid(195d4ab9c0a016d438d6d6f83a946053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/3.unity using Guid(195d4ab9c0a016d438d6d6f83a946053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd97b09132e8d1369215bb47f8273ffb1') in 0.022327 seconds
+  Import took 0.027876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.908865 seconds.
+  path: Assets/Scenes/4.unity
+  artifactKey: Guid(885d5c6d1fc1ed44982e9a3d7fc99414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/4.unity using Guid(885d5c6d1fc1ed44982e9a3d7fc99414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ce2326521e0f0f8016975cfada16d61') in 0.020209 seconds
+  Import took 0.025617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.345441 seconds.
+  path: Assets/Scenes/5.unity
+  artifactKey: Guid(ff617f9ffe6130742bd0667c4e59ff67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/5.unity using Guid(ff617f9ffe6130742bd0667c4e59ff67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60d854c52a13361afe62ac18b439f9d5') in 0.007334 seconds
+  Import took 0.012749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.012786 seconds.
+  path: Assets/Scenes/4.unity
+  artifactKey: Guid(885d5c6d1fc1ed44982e9a3d7fc99414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/4.unity using Guid(885d5c6d1fc1ed44982e9a3d7fc99414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fda7980675a60dab8287f77c433ba890') in 0.009108 seconds
+  Import took 0.016243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.338078 seconds.
+  path: Assets/Scenes/3.unity
+  artifactKey: Guid(195d4ab9c0a016d438d6d6f83a946053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/3.unity using Guid(195d4ab9c0a016d438d6d6f83a946053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dfc7ab78b95991538997731b61a5e31') in 0.008014 seconds
+  Import took 0.051405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.077693 seconds.
+  path: Assets/Scenes/6.unity
+  artifactKey: Guid(7fdf5d67b9653a346803c8b8e31698e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/6.unity using Guid(7fdf5d67b9653a346803c8b8e31698e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec194d2ebe1ea1479722b7ed4a9d700c') in 0.018627 seconds
+  Import took 0.058176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.344059 seconds.
+  path: Assets/Scenes/7.unity
+  artifactKey: Guid(80bb6b8cbd4588d428c9ad9e3531a6f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/7.unity using Guid(80bb6b8cbd4588d428c9ad9e3531a6f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78152b6b6975e5250dcc43ca2966e209') in 0.007976 seconds
+  Import took 0.014662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011346 seconds.
+  path: Assets/Scenes/7.unity
+  artifactKey: Guid(80bb6b8cbd4588d428c9ad9e3531a6f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/7.unity using Guid(80bb6b8cbd4588d428c9ad9e3531a6f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78152b6b6975e5250dcc43ca2966e209') in 0.007663 seconds
+  Import took 0.013318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.149621 seconds.
+  path: Assets/Scenes/8.unity
+  artifactKey: Guid(b2f8787305f956948863e8fa625be84a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/8.unity using Guid(b2f8787305f956948863e8fa625be84a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5a91491a6fb26d0f64b658ab1ac4d81') in 0.007844 seconds
+  Import took 0.013780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.649687 seconds.
+  path: Assets/Scenes/9.unity
+  artifactKey: Guid(62444b56763c9f742b4534c1e81387f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/9.unity using Guid(62444b56763c9f742b4534c1e81387f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a7a735d2c3570189f79a08756fc284a') in 0.009324 seconds
+  Import took 0.015994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.995289 seconds.
+  path: Assets/Scenes/8.unity
+  artifactKey: Guid(b2f8787305f956948863e8fa625be84a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/8.unity using Guid(b2f8787305f956948863e8fa625be84a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aded667214d3f137d98af66e23c41b4') in 0.011863 seconds
+  Import took 0.019070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.047014 seconds.
+  path: Assets/Scenes/10.unity
+  artifactKey: Guid(0c59ce87cc451a1429ce6c3f02d623f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/10.unity using Guid(0c59ce87cc451a1429ce6c3f02d623f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3db1fb8008fd873eed45ed04b390e12') in 0.008911 seconds
+  Import took 0.015241 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 9.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.6 MB.
+System memory in use after: 42.7 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1835.
+Total: 5.381400 ms (FindLiveObjects: 0.637400 ms CreateObjectMapping: 0.179200 ms MarkObjects: 4.491000 ms  DeleteObjects: 0.070400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
